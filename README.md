@@ -18,7 +18,7 @@ $ pip3 install -r requirements.txt
 
 ⚙️ Arguments for use and instructions
 
-```python3
+```
 usage: exploit.py [-h] [-u URL] [-i IP] [-v VIRTUALHOST] [-m MULTIPLE]
                  [-t THREADS] [-xp XMLPATH]
 
